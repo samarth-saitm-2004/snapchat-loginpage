@@ -1,0 +1,187 @@
+body
+{
+    background-color: yellow;
+}
+li
+{
+    list-style-type: none;
+    display: inline;
+    
+   
+}
+
+.nav
+{
+  
+    margin-left: 280px;
+    word-spacing: 30px;
+    font-size: 17px;
+    font-weight:lighter;
+    position: relative;
+    top: 13px; 
+}
+a
+{
+    text-decoration: none;
+}
+
+.down
+{
+    padding: 12px 45px;
+    border-radius: 50px;
+    color: black;
+    background-color: white;
+    font-size: 24px;
+    border: 0;
+    cursor: pointer;
+    margin: 2px;
+    margin-left: 65%;
+    position: relative;
+    top: -34px;
+    font-weight: bold;
+}   
+
+.logo
+{
+    height: 40px;
+    width: 40px;
+    margin-left: 70px;
+    position: relative;
+    top: -120px;
+    
+    
+}
+
+.main
+{
+    font-size: 52px;
+    margin-left: 90px;
+    position: relative;
+    top: -50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main1
+{
+    font-size: 52px;
+    margin-left: 152px;
+    position: relative;
+    top: -92px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main2
+{
+    font-size: 52px;
+    margin-left: 90px;
+    position: relative;
+    top: -144px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+
+.small
+{
+   margin-left: 95px;
+   position: relative;
+   top: -180px;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.lap
+{
+    height: 55%;
+    width: 55%;
+    margin-left: 42%;
+    position: relative;
+    top: -445px;
+}
+.log
+{
+    padding: 12px 41px;
+    margin-left: 82%;
+    border-radius: 50px;
+    border: 0;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    position: relative;
+    top: -85px;
+    font-weight:bold;
+    font-size: 21px;
+     
+}
+.log2
+{
+    padding: 12px 48px;
+    margin-left: 9%;
+    border-radius: 50px;
+    border: 0;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    position: relative;
+    top: -581px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.lsep
+{
+    height: 45px;
+    width: 45px;
+    border: 3px solid black;
+    position: relative;
+    top: -809px;
+    margin-left: 7%;
+    border-style: dashed;
+    font-size: 21px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 1px;
+    text-align: center;
+    
+}
+.phone
+{
+    margin-left: 66%;
+    height: 35px;
+    width: 22px;
+    position: relative;
+    top: -1090px;
+}
+
+.com1
+{
+    margin-left: 83%;
+    height: 35px;
+    width: 22px;
+    position: relative;
+    top: -1128px;
+}
+
+.com2
+{
+    margin-left: 10%;
+    position: relative;
+    top: -742px;
+}
+
+
+
+    
+
+    
+
+   
+
+
+
+
+
+
+
